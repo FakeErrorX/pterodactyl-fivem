@@ -16,7 +16,7 @@ This is a script to install FiveM on a Debian 12 server. It will install the lat
 2. Change the `Auto Update` to the desired value (default: `1` | `0` = disabled, `1` = enabled) note: this will delete `alpine` folder and reinstall it `no data will be lost`
 
 ## Credits
-- [Luxxy-GF](https://github.com/FakeErrorX) - Creator of the egg
+- [ErrorX](https://github.com/FakeErrorX) - Creator of the egg
 - [Pterodactyl](https://pterodactyl.io) - Panel used
 - [FiveM](https://fivem.net) - Game server software used
 - [parkervcp](https://github.com/parkervcp) - Creator of the original egg
